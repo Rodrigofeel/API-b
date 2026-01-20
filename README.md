@@ -74,7 +74,7 @@ async function buscarPaises() {
 - **Faça fork ou clone do repositório**
 
 ```bash
-git clone
+git clone https://github.com/Rodrigofeel/API-b.git
 ```
 
 ## Referência
